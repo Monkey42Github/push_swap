@@ -50,4 +50,4 @@ make
 This will output the instructions to sort the integers [4 67 2 8 12].
 
 ## Contributors
-[pschemit](https://github.com/pschemit)
+[pschemit](https://github.com/Monkey42Github)
